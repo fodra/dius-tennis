@@ -1,0 +1,19 @@
+{
+  "name": "dius-tennis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "node -r esm node_modules/.bin/jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.0.61"
+  },
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  }
+}
