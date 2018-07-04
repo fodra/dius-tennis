@@ -98,8 +98,6 @@ export default class Match {
     if (showPlayerPoints) {
       output += this.getTennisPoint(this.player);
     }
-    // this.playerOne.show();
-    // this.playerTwo.show();
     return output;
   }
 

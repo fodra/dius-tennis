@@ -1,4 +1,4 @@
-This is an implementation of the DiUS scoring system for the tennis tournament.
+This is an implementation of the [DiUS scoring system](https://gist.github.com/codingricky/b232960369829efcfe3a65eac4a5ed07) for the tennis tournament.
 
 # Quick start
 
